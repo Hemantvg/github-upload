@@ -1,0 +1,5 @@
+git init
+git remote add originhttps://github.com/Hemantvg/github-upload.git
+get add.
+get commit -m "initializing repoistry"
+git push -u origin main
